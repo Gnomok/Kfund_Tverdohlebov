@@ -1,0 +1,45 @@
+.block1{
+    float: left;
+    width: 1000 px;
+    height: 200 px;
+background-color: rgb(18, 21, 219);
+}
+.block2{
+    float: left;
+    width: 500 px;
+    height: 250 px;
+    color : chocolate;
+    background-color: rgb(230, 230, 1);
+}
+.block3{
+    float: left;
+    width: 500 px;
+    height: 250 px;
+    color : chocolate;
+    background-color: rgb(35, 223, 147);
+}
+.block4{
+    float: left;
+    width: 333 px;
+    height: 250 px;
+    color : chocolate;
+    background-color: rgb(140, 32, 173);
+}
+.block5{
+    float: left;
+    width: 333 px;
+    height: 250 px;
+    color : chocolate;
+    background-color: rgb(202, 25, 25);
+}
+.block6{
+    float: left;
+    width: 333 px;
+    height: 250 px;
+    color : chocolate;
+    background-color: rgb(8, 250, 48);
+}
+
+div{
+border: 5 px;
+}

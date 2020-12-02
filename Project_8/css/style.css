@@ -1,0 +1,14 @@
+.Japan1{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: red;
+    position: relative;
+    top: -300px;
+    left: 200px;
+    }
+.Japan2{
+width: 600px;
+height: 400px;
+background-color: antiquewhite;
+}
